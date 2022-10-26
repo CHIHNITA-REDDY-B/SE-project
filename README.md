@@ -1,6 +1,4 @@
 # SE-project
-Shivani Clg, [26-10-2022 21:15]
-[Forwarded from Nikitha Klu]
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 from werkzeug import secure_filename, FileStorage
